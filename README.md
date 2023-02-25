@@ -3,9 +3,6 @@
 
 [![SkillIcons](https://skillicons.dev/icons?i=python,django,mysql,postgres,nodejs,vue,js,html,css,tailwind,bootstrap,electron,git)](https://skillicons.dev)<br/>
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo?si=22e37dfbada54e89)
-
 My skills aims for the end of the year:
 
 [![SkillIcons](https://skillicons.dev/icons?i=react,flutter)](https://skillicons.dev)<br/>
