@@ -23,4 +23,5 @@
 [<img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/16426230/pietro-massaro)
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/pietro-massaro)
+&nbsp;
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram logo" title="Instagram" height="25"/>](https://www.instagram.com/massaro.pietro)
